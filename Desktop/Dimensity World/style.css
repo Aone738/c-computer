@@ -1,0 +1,11 @@
+h1{
+    color: firebrick;
+    background-color: blanchedalmond;
+    position: fixed;
+}
+h3{
+    color: firebrick;
+    background-color: rgb(16, 50, 221);
+    position: relative;
+    width: 5%;
+}
